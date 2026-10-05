@@ -900,7 +900,7 @@ function App() {
                 </div>
               ) : (
                 <form className="contact-form" onSubmit={handleSubmit}>
-                  <div className="form-heading"><span>01</span><span>Start a conversation</span></div>
+                  <div className="form-heading"><span>07</span><span>Start a conversation</span></div>
                   <label>
                     <span>Your name</span>
                     <input type="text" name="name" placeholder="What should I call you?" required />
